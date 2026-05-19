@@ -1,0 +1,16 @@
+a{
+    color: blue;
+    font-size: larger;
+}
+a:visited{
+    color: purple;
+}
+a:hover{
+    color: goldenrod;
+}
+a:active{
+    color: red;
+}
+ul li{
+    padding: 10px;
+}

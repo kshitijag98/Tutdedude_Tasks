@@ -1,0 +1,1 @@
+I am creating a single GitHub Live Hosting project where I store and manage all 38 tasks in one place. Each task is organized neatly with separate links, making it easy to access, sort, and navigate one by one. This project helps maintain a clean structure, improves task management, and showcases all completed work in an organized and professional manner.

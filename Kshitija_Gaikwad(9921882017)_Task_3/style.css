@@ -1,0 +1,33 @@
+body{
+    background-color: lightpink;
+}
+
+.head{
+    color: darkblue;
+}
+
+#bglime{
+    background-color: lime;
+}
+
+#para{
+    color: green;
+}
+
+p{
+    color: white;
+}
+
+ol li:nth-child(2){
+    color: blue;
+}
+
+ol li:nth-child(3){
+    color: red;
+}
+ul li:first-child a{
+    background-color: yellow;
+}
+ul li:last-child a{
+    background-color: rgb(133, 133, 237);
+}
