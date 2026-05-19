@@ -1,0 +1,11 @@
+.container {
+    margin: 10vh 25vw;
+}
+
+button {
+    padding: 1vw;
+    width: 40.70vw;
+    color: white;
+    margin-top: -1vh;
+   background: linear-gradient(90deg,rgba(143, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+}
