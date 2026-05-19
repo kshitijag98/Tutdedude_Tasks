@@ -1,0 +1,76 @@
+body {
+    margin: 0 5vw;
+}
+
+.navbar {
+
+    padding: 5px 5px;
+    border-radius: 10px;
+}
+
+.navbar h3 {
+    display: inline-block;
+}
+h1{
+    margin: 0;
+}
+
+.nav-link {
+    display: inline-block;
+    position: relative;
+    left: 30%;
+
+}
+
+.nav-link li {
+    display: inline-block;
+    padding: 20px;
+}
+
+.nav-link li a {
+    text-decoration: none;
+    color: black;
+}
+
+.navbar h5 {
+    /* display: inline-block; */
+    padding: 10px;
+    color: rgb(71, 191, 239);
+    background-color: rgb(206, 234, 246);
+    border-radius: 10px;
+    float: right;
+}
+
+.book_service_img {
+    float: right;
+}
+
+.book_service_img img {
+    text-align: center;
+    height: 400px;
+    width: 400px;
+    position: relative;
+   margin-top: -350px;
+    margin-right: 150px;
+}
+
+.book_service_title span {
+    color: rgb(84, 197, 241);
+}
+
+.book_service_btn button {
+    background-color: rgb(84, 197, 241);
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    
+}
+
+
+.book_service {
+    width: 40%;
+    margin: 87px 60px;
+  
+}
